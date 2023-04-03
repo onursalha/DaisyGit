@@ -5,6 +5,9 @@ public class WetFood {
         int wetFood= 10;
         if(wetFood>5){
             System.out.println("Daisy has enough wet food.");
+
+
+            System.out.println("daisy");
         }
     }
 }
